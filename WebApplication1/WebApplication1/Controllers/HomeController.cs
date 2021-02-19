@@ -25,6 +25,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Privacy()
         {
+            // изменение 1
             return View();
         }
 
